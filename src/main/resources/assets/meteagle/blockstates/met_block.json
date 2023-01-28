@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "meteagle:block/met_block" }
+  }
+}

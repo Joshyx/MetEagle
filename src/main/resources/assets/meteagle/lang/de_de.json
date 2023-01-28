@@ -1,0 +1,13 @@
+{
+  "block.meteagle.met_block": "Metblock",
+  "block.meteagle.meat_grinder": "Fleischwolf",
+
+  "item.meteagle.bacon": "Speck",
+  "item.meteagle.sausage": "Wurst",
+  "item.meteagle.minced_meat": "Hackfleisch",
+  "item.meteagle.kebab_meat": "Dönerfleisch",
+  "item.meteagle.salami": "Salami",
+  "item.meteagle.meatball": "Frikadelle",
+
+  "tab.meteagle.meteagle": "Metigel Items"
+}
